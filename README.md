@@ -1,7 +1,7 @@
 # 🎧 Spotify Web Clone
 
 ![image](https://github.com/user-attachments/assets/ae4c0203-78ea-4065-9cef-840803dcef85)
-![image](https://github.com/user-attachments/assets/ae4c0203-78ea-4065-9cef-840803dcef85)
+
 
 
 ---

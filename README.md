@@ -1,4 +1,9 @@
 # 🎧 Spotify Web Clone
+
+![image](https://github.com/user-attachments/assets/ae4c0203-78ea-4065-9cef-840803dcef85)
+![image](https://github.com/user-attachments/assets/ae4c0203-78ea-4065-9cef-840803dcef85)
+
+
 ---
 
 A responsive front-end clone of the Spotify web player built with HTML, CSS, and JavaScript. This project replicates Spotify’s UI for design practice and web development learning.
